@@ -1,5 +1,5 @@
 {
-  "name": "darkroom-persistance",
+  "name": "darkroom-persistence",
   "version": "1.0.1",
   "description": "Persistance engine for darkroom",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://npm.clockte.ch/"
   },
   "author": "Tom Gallacher <tomgallacher23@gmail.com>",
   "license": "",
