@@ -1,6 +1,6 @@
 {
   "name": "darkroom-persistence",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Persistance engine for darkroom",
   "main": "index.js",
   "scripts": {
